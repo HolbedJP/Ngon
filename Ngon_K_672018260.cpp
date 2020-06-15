@@ -4,7 +4,6 @@
 #else
 #include <GL/glut.h>
 #endif
-
 #include <stdlib.h>
 #include <cmath>
 #define M_PI 3.14
